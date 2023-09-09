@@ -4,6 +4,7 @@
 /SaveFile.txt
 /SaveFile1.txt
 # Datasource local storage ignored files
+/out/
 /dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
