@@ -1,4 +1,4 @@
-# Formula 1 Championship Simulator
+# Formula 1 Championship Manager Simulator
 
 <img src="./banner.png" width="700">
 
@@ -76,6 +76,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-We would like to express our gratitude to our senior lecturer Mr. Saman Hettiarachchi for the assignment specifications and guidance throughout the development process.
+I would like to express my gratitude to our senior lecturer Mr. Saman Hettiarachchi for the assignment specifications and guidance throughout the development process.
 
-Feel free to contribute, enhance, or customize this project to meet your specific needs. Enjoy managing your own Formula 1 championship, and may the best driver win!
+Feel free to contribute, enhance, or customize this project to meet your specific needs. Enjoy managing your own Formula 1 championship manager, and may the best driver win!
